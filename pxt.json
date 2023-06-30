@@ -1,0 +1,42 @@
+{
+    "name": "pi",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#F03D3D",
+        "#AC3E3E",
+        "#A55555",
+        "#DFB577",
+        "#E8B687",
+        "#DB9648",
+        "#D07D39",
+        "#7E7D82",
+        "#657A7B",
+        "#FFFFFF",
+        "#c0c0c0",
+        "#787878",
+        "#f8d898",
+        "#c04800",
+        "#000000"
+    ]
+}
